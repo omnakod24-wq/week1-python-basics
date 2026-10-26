@@ -1,0 +1,50 @@
+WEEK 2 - STUDENT GRADE CALCULATOR TEST CASES
+================================================
+
+Test 1: Grade A lower boundary
+Input: Student name = Alex, marks = 90
+Expected: Grade A
+
+Test 2: Grade A upper boundary
+Input: Student name = Alex, marks = 100
+Expected: Grade A
+
+Test 3: Grade B
+Input: Student name = Priya, marks = 85
+Expected: Grade B; message = Very Good! Keep it up!
+
+Test 4: Grade C
+Input: Student name = Sam, marks = 75
+Expected: Grade C
+
+Test 5: Grade D
+Input: Student name = Riya, marks = 60
+Expected: Grade D
+
+Test 6: Grade F
+Input: Student name = Arun, marks = 45
+Expected: Grade F
+
+Test 7: Lowest valid marks
+Input: Student name = Alex, marks = 0
+Expected: Grade F
+
+Test 8: Marks below range
+Input: marks = -1, then 70
+Expected: Reject -1; ask again; then Grade C
+
+Test 9: Marks above range
+Input: marks = 101, then 80
+Expected: Reject 101; ask again; then Grade B
+
+Test 10: Non-numeric marks
+Input: marks = hello, then 95
+Expected: Explain invalid input; ask again; then Grade A
+
+Test 11: Empty student name
+Input: blank name, then Neha; marks = 88
+Expected: Ask for a name again; then Grade B
+
+Test 12: Decimal marks
+Input: marks = 82.5, then 82
+Expected: Reject decimal input because this program accepts whole-number marks; then Grade B
