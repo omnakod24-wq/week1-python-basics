@@ -1,0 +1,24 @@
+Week 1: Personal Introduction Program — Manual Test Cases
+
+Test 1: Typical inputs
+Name: Alex
+Age: 21
+City: Pune
+Course: BCA
+Hobby: Coding
+Expected: The program prints all five answers in the introduction.
+
+Test 2: Name with spaces
+Name: Alex Kumar
+Expected: The full name appears in the output.
+
+Test 3: Different hobby
+Hobby: Reading
+Expected: The output says "My hobby is Reading."
+
+Test 4: Different city and course
+City: Mumbai
+Course: Computer Science
+Expected: Both values appear correctly in the output.
+
+Note: This is a beginner input/output program; it does not yet validate age as a number or reject blank answers.
