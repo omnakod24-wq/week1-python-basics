@@ -11,17 +11,17 @@ This beginner project uses pandas to explore and analyze a 100-row practice sale
 5. The script updates this report with the latest calculated metrics.
 
 ## Dataset
-- Data rows: 99
+- Data rows: 100
 - Columns: Product, Quantity, Unit_Price, Total_Sales, Region
 - Products: Notebook, Pen, Backpack, Water Bottle, Calculator
 - Regions: West, North, South, East
 
 ## Key findings from the supplied CSV
-- **Total revenue:** ₹1,67,930.00
-- **Average sale value:** ₹1,696.26
+- **Total revenue:** ₹1,69,330.00
+- **Average sale value:** ₹1,693.30
 - **Highest individual sale:** ₹5,950.00
 - **Lowest individual sale:** ₹250.00
-- **Total units sold:** 1602
+- **Total units sold:** 1630
 - **Best product by revenue:** Backpack (₹68,000.00)
 - **Highest-revenue region:** South (₹46,190.00)
 
@@ -31,7 +31,7 @@ This beginner project uses pandas to explore and analyze a 100-row practice sale
 | Backpack | ₹68,000.00 |
 | Calculator | ₹40,050.00 |
 | Water Bottle | ₹32,220.00 |
-| Notebook | ₹18,900.00 |
+| Notebook | ₹20,300.00 |
 | Pen | ₹8,760.00 |
 
 ## Revenue by region
@@ -40,7 +40,7 @@ This beginner project uses pandas to explore and analyze a 100-row practice sale
 | South | ₹46,190.00 |
 | West | ₹42,250.00 |
 | North | ₹41,060.00 |
-| East | ₹38,430.00 |
+| East | ₹39,830.00 |
 
 ## Analysis steps
 1. Read the CSV using pandas.
