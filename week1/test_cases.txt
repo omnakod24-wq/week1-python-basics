@@ -1,24 +1,37 @@
-Week 1: Personal Introduction Program — Manual Test Cases
+WEEK 1 — PERSONAL INTRODUCTION PROGRAM
+MANUAL TEST CASES
 
-Test 1: Typical inputs
-Name: Alex
+Test 1: Normal input
+Name: Omprakash Narayan Nakod
 Age: 21
 City: Pune
-Course: BCA
+Course: B.Sc (Computer Science)
 Hobby: Coding
-Expected: The program prints all five answers in the introduction.
+Expected: All five details appear in the introduction.
 
-Test 2: Name with spaces
+Test 2: Name containing spaces
 Name: Alex Kumar
-Expected: The full name appears in the output.
+Expected: The full name appears correctly.
 
-Test 3: Different hobby
-Hobby: Reading
-Expected: The output says "My hobby is Reading."
+Test 3: Hobby containing spaces
+Hobby: Playing cricket
+Expected: The full hobby appears correctly.
 
-Test 4: Different city and course
+Test 4: Extra spaces
+Name:   Alex
+Expected: Leading and trailing spaces are removed by strip().
+
+Test 5: Different city and course
 City: Mumbai
 Course: Computer Science
-Expected: Both values appear correctly in the output.
+Expected: Both answers appear correctly.
 
-Note: This is a beginner input/output program; it does not yet validate age as a number or reject blank answers.
+Test 6: Blank answer
+Press Enter without typing one answer.
+Expected: The program continues and that detail is blank. Input validation is not part of this beginner version.
+
+How to test:
+1. Open a terminal in this folder.
+2. Run: py personal_intro.py
+3. Enter the values for each test.
+4. Compare the displayed introduction with the expected result.
