@@ -1,0 +1,27 @@
+WEEK 1 — PERSONAL INTRODUCTION PROGRAM TEST CASES
+
+Test 1: Typical input
+Input: Name=Alex, Age=21, City=Pune, Course=BCA, Hobby=Coding
+Expected: Program displays all five details in a friendly introduction.
+
+Test 2: Name with spaces
+Input: Name=Alex Smith
+Expected: The full name is displayed correctly.
+
+Test 3: Hobby with spaces
+Input: Hobby=Playing cricket
+Expected: The full hobby is displayed correctly.
+
+Test 4: Extra spaces around input
+Input: Name entered as '  Alex  '
+Expected: .strip() removes leading and trailing spaces.
+
+Test 5: Empty input
+Input: Press Enter without typing a value
+Expected: Program continues, but the corresponding detail is blank. (Possible improvement: add input validation.)
+
+Manual testing instructions:
+1. Open a terminal in the project folder.
+2. Run: py personal_intro.py
+3. Enter each test case when prompted.
+4. Check the displayed introduction against the expected result.
