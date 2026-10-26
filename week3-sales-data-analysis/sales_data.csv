@@ -1,0 +1,100 @@
+Product,Quantity,Unit_Price,Total_Sales,Region
+Notebook,12,50,600,West
+Pen,40,10,400,West
+Backpack,3,850,2550,North
+Water Bottle,8,180,1440,South
+Notebook,20,50,1000,East
+Pen,35,10,350,North
+Calculator,5,450,2250,West
+Backpack,2,850,1700,South
+Water Bottle,10,180,1800,East
+Notebook,15,50,750,North
+Pen,60,10,600,South
+Calculator,4,450,1800,East
+Backpack,5,850,4250,West
+Water Bottle,6,180,1080,North
+Notebook,25,50,1250,South
+Pen,45,10,450,East
+Calculator,3,450,1350,North
+Backpack,4,850,3400,East
+Water Bottle,12,180,2160,West
+Notebook,18,50,900,West
+Pen,55,10,550,North
+Calculator,6,450,2700,South
+Backpack,3,850,2550,North
+Water Bottle,9,180,1620,East
+Notebook,22,50,1100,East
+Pen,30,10,300,West
+Calculator,2,450,900,West
+Backpack,6,850,5100,South
+Water Bottle,7,180,1260,North
+Notebook,14,50,700,South
+Pen,50,10,500,East
+Calculator,7,450,3150,West
+Backpack,2,850,1700,East
+Water Bottle,11,180,1980,South
+Notebook,16,50,800,North
+Pen,25,10,250,South
+Calculator,4,450,1800,East
+Backpack,3,850,2550,West
+Water Bottle,5,180,900,West
+Notebook,30,50,1500,East
+Pen,42,10,420,North
+Calculator,5,450,2250,South
+Backpack,4,850,3400,North
+Water Bottle,8,180,1440,East
+Notebook,11,50,550,West
+Pen,65,10,650,East
+Calculator,3,450,1350,North
+Backpack,7,850,5950,South
+Water Bottle,13,180,2340,North
+Notebook,19,50,950,South
+Pen,38,10,380,West
+Calculator,6,450,2700,East
+Backpack,5,850,4250,North
+Water Bottle,4,180,720,South
+Notebook,24,50,1200,West
+Pen,48,10,480,East
+Calculator,2,450,900,South
+Backpack,3,850,2550,East
+Water Bottle,10,180,1800,North
+Notebook,17,50,850,North
+Pen,33,10,330,South
+Calculator,8,450,3600,West
+Backpack,4,850,3400,South
+Water Bottle,6,180,1080,East
+Notebook,21,50,1050,East
+Pen,52,10,520,West
+Calculator,5,450,2250,North
+Backpack,6,850,5100,West
+Water Bottle,9,180,1620,South
+Notebook,13,50,650,South
+Pen,44,10,440,North
+Calculator,4,450,1800,West
+Backpack,2,850,1700,North
+Water Bottle,14,180,2520,East
+Notebook,27,50,1350,West
+Pen,37,10,370,East
+Calculator,7,450,3150,South
+Backpack,5,850,4250,East
+Water Bottle,7,180,1260,West
+Notebook,23,50,1150,North
+Pen,58,10,580,South
+Calculator,3,450,1350,East
+Backpack,4,850,3400,West
+Water Bottle,11,180,1980,North
+Notebook,15,50,750,East
+Pen,46,10,460,West
+Calculator,6,450,2700,South
+Backpack,3,850,2550,South
+Water Bottle,8,180,1440,North
+Notebook,26,50,1300,South
+Pen,41,10,410,East
+Calculator,5,450,2250,West
+Backpack,7,850,5950,North
+Water Bottle,12,180,2160,East
+Notebook,10,50,500,North
+Pen,32,10,320,West
+Calculator,4,450,1800,South
+Backpack,2,850,1700,West
+Water Bottle,9,180,1620,South
