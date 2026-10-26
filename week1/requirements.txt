@@ -1,2 +1,2 @@
-# Week 1 Python Basics
-# No external packages are required.
+# No third-party packages are required for Week 1.
+# The program uses Python built-in functions only.
