@@ -1,0 +1,12 @@
+Enter your name: OMPRAKASH NARAYAN NAKOD
+Enter your age: 21
+Enter your city: pune
+Enter your course: B.Sc(cs)
+Enter your hobby: coding
+
+--- My Introduction ---
+My name is OMPRAKASH NARAYAN NAKOD.
+I am 21 years old.
+I live in pune.
+I am studying B.Sc(cs).
+My hobby is coding.
