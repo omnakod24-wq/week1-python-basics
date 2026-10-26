@@ -1,6 +1,6 @@
-"""Week 1 Python Basics: Personal Introduction Program.
+"""Week 1 Python Basics: Personal Introduction.
 
-Ask the user for personal details and display a friendly introduction.
+Ask the user for five details and print a simple introduction.
 """
 
 name = input("Enter your name: ").strip()
