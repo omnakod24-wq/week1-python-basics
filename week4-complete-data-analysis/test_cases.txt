@@ -1,0 +1,14 @@
+WEEK 4 COMPLETE DATA ANALYSIS - TEST CASES
+==========================================
+1. Dataset row count: expect 100 data rows in data/sales_data.csv.
+2. Required columns: Date, Product, Quantity, Price, Customer_ID, Region, Total_Sales.
+3. Date conversion: valid dates convert to datetime; invalid dates are excluded.
+4. Numeric conversion: invalid Quantity or Price becomes missing and the row is excluded.
+5. Revenue calculation: Total_Sales is recalculated as Quantity * Price.
+6. Duplicate handling: exact duplicate records are removed.
+7. Summary metrics: total, average, maximum, minimum, units sold and unique customers are reported.
+8. Product chart: visualizations/sales_by_product.png is created.
+9. Monthly trend: visualizations/monthly_sales_trend.png is created.
+10. Region chart: visualizations/sales_by_region.png is created.
+11. Markdown report: report/analysis_report.md is created or updated.
+12. Missing dataset: program prints a clear error if data/sales_data.csv is absent.
