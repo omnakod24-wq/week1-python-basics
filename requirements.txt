@@ -1,2 +1,0 @@
-# Week 1 Python Basics
-# This project uses only Python's built-in functions and requires no external packages.
