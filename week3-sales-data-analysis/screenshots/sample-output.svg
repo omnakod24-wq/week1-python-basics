@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+<rect width="900" height="360" rx="18" fill="#171923"/><rect width="900" height="48" rx="18" fill="#2d3748"/>
+<circle cx="26" cy="24" r="7" fill="#fc8181"/><circle cx="50" cy="24" r="7" fill="#f6e05e"/><circle cx="74" cy="24" r="7" fill="#68d391"/>
+<text x="450" y="30" text-anchor="middle" font-family="Arial" font-size="15" fill="#edf2f7">Sales Data Analysis — illustrative output</text>
+<g font-family="Consolas, monospace" font-size="22" fill="#e2e8f0">
+<text x="36" y="93" fill="#9ae6b4">SALES DATA ANALYSIS</text><text x="36" y="127">====================================</text>
+<text x="36" y="166">Original rows: 100</text><text x="36" y="203">Clean rows: 100</text>
+<text x="36" y="240" fill="#f6e05e">Total revenue: calculated from CSV</text>
+<text x="36" y="277">Average sale: calculated from CSV</text>
+<text x="36" y="314" fill="#90cdf4">Report saved to: analysis_report.md</text>
+</g></svg>
